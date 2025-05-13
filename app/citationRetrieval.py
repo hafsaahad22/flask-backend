@@ -1,5 +1,5 @@
 # citationRetrieval.py
-# This module loads the cleaned Constitution text and matches articles to user queries using similarity.
+# This module loads the cleaned Constitution json and matches articles to user queries using similarity.
 
 import os
 import json
