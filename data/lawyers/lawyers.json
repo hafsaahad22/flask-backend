@@ -1,0 +1,26 @@
+[
+    {
+        "name": "John Doe",
+        "specialization": "Criminal Law",
+        "location": "Karachi",
+        "contact": "john.doe@example.com"
+    },
+    {
+        "name": "Jane Smith",
+        "specialization": "Civil Law",
+        "location": "Lahore",
+        "contact": "jane.smith@example.com"
+    },
+    {
+        "name": "Ali Khan",
+        "specialization": "Criminal Law",
+        "location": "Islamabad",
+        "contact": "ali.khan@example.com"
+    },
+    {
+        "name": "Sarah Ahmed",
+        "specialization": "Family Law",
+        "location": "Karachi",
+        "contact": "sarah.ahmed@example.com"
+    }
+]
